@@ -752,3 +752,6 @@ col.collapsed { padding: 0; }
 
 .tinted { opacity: 0.8; }
 
+a.logo-link, a.logo-link:link, a.logo-link:visited, a.logo-link:hover, a.logo-link:focus, a.logo-link:active{
+    color:#11ABB0;
+}
